@@ -3,9 +3,9 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 const Discord = require("discord.js");//Angry Black
 const myid = [691281914891337779];//Angry Black هنا بتحط الايدى تبع حسابك و هو رقم طول
-const client = new Discord.Client("NzM2Njk0ODUyNDY4NzM2MDMw.X0vexA.A_oGL8ormfR2hc-1F5DUZED0RY8");//Angry Black
-const client2 = new Discord.Client("NzQ5NjgxMTQxNDE3NzcxMDE4.X0vhcg.ONxje4bjVGlPESwfndV24gtuiFk");//Angry Black
-const client3 = new Discord.Client("NzQ5NjgzMzAyMTYzNjc3MTk1.X0vjPA.XG_eDHOmIwj_sXHZRTtHjpqgUXY");//Angry Black
+const client = new Discord.Client();//Angry Black
+const client2 = new Discord.Client();//Angry Black
+const client3 = new Discord.Client();//Angry Black
 const client4 = new Discord.Client();//Angry Black
 const client5 = new Discord.Client();//Angry Black
 const client6 = new Discord.Client();//Angry Black
